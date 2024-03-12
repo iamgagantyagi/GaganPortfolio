@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/gaganfolio/static/css/main.ce822b84.css",
+    "main.js": "/gaganfolio/static/js/main.c8877611.js",
+    "static/css/487.bb36206c.chunk.css": "/gaganfolio/static/css/487.bb36206c.chunk.css",
+    "static/js/487.57b0cd79.chunk.js": "/gaganfolio/static/js/487.57b0cd79.chunk.js",
+    "static/media/ACL_Digital_Logo.png": "/gaganfolio/static/media/ACL_Digital_Logo.3ad1c568f31689d87e75.png",
+    "static/media/Montserrat-Regular.ttf": "/gaganfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/jmitlogo.png": "/gaganfolio/static/media/jmitlogo.b49eba1d9875b748e7d3.png",
+    "static/media/Agustina.woff": "/gaganfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/TCS_Logo.png": "/gaganfolio/static/media/TCS_Logo.6de8cda579be5c7720c0.png",
+    "static/media/manOnTable.svg": "/gaganfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/Azure_DevOps_Logo.png": "/gaganfolio/static/media/Azure_DevOps_Logo.43dac569fa47f259c1b2.png",
+    "static/media/contactMailDark.svg": "/gaganfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/gaganfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/aviatrix_logo.png": "/gaganfolio/static/media/aviatrix_logo.93edb9b83069ff0a2ba5.png",
+    "static/media/researchgate.png": "/gaganfolio/static/media/researchgate.fa9d88d9b1ab274cd955.png",
+    "static/media/skill.svg": "/gaganfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/saayaHealthLogo.webp": "/gaganfolio/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
+    "static/media/nextuLogo.webp": "/gaganfolio/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
+    "index.html": "/gaganfolio/index.html",
+    "static/media/talksCardBack.svg": "/gaganfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.ce822b84.css.map": "/gaganfolio/static/css/main.ce822b84.css.map",
+    "main.c8877611.js.map": "/gaganfolio/static/js/main.c8877611.js.map",
+    "487.bb36206c.chunk.css.map": "/gaganfolio/static/css/487.bb36206c.chunk.css.map",
+    "487.57b0cd79.chunk.js.map": "/gaganfolio/static/js/487.57b0cd79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce822b84.css",
+    "static/js/main.c8877611.js"
+  ]
+}
