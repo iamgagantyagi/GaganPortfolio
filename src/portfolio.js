@@ -28,7 +28,7 @@ const greeting = {
   ),
   githubLink: "https://github.com/iamgagantyagi",
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1zlhN4poLWU-VraXNvKtqIvZ7q016xhU_/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -333,15 +333,15 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Microsoft Certified: DevOps Engineer Expert",
+      title: "Cloud & DevOps Certifications",
       subtitle:
-        "Earning the DevOps Engineer Expert certification demonstrates the ability to combine people, process, and technologies to continuously deliver valuable products and services.",
-      image: require("./assets/images/Azure_DevOps_Logo.png"),
+        "These certifications showcase my extensive knowledge and hands-on experience in cloud computing, DevOps practices, and cloud-native technologies.  ",
+      image: require("./assets/images/DevOps_Logos.png"),
       imageAlt: "Azure DevOps Logo",
       footerLink: [
         {
           name: "Certification",
-          url: "https://www.credly.com/earner/earned/badge/2f69d21d-9dbb-42f0-945f-e4d83f67c515"
+          url: "https://www.credly.com/earner/earned"
         }
       ]
     },
@@ -384,12 +384,12 @@ const blogSection = {
     "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
-    // {
-    //   url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-    //   title: "Why REACT is The Best?",
-    //   description:
-    //     "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
-    // }
+    {
+      url: "https://iamgagantyagi.medium.com/deploying-multiple-nginx-ingress-controllers-in-an-oci-virtual-node-cluster-d7807ad55c85",
+      title: "Why REACT is The Best?",
+      description:
+        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };

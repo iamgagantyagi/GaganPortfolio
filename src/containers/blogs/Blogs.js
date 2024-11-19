@@ -24,14 +24,16 @@ export default function Blogs() {
           .map(str => str.replace(/<\/?h3>/g, "").trim())
           .join(" ");
       }
+      return "";
     }
 
-    return NaN;
+    return "";
   }
   useEffect(() => {
     if (blogSection.displayMediumBlogs === "true") {
       const getProfileData = () => {
-        fetch("/blogs.json")
+        // fetch("/blogs.json")
+        fetch(`${process.env.PUBLIC_URL}/blogs.json`)
           .then(result => {
             if (result.ok) {
               return result.json();
@@ -91,9 +93,11 @@ export default function Blogs() {
                       key={i}
                       isDark={isDark}
                       blog={{
-                        url: blog.link,
-                        title: blog.title,
-                        description: extractTextContent(blog.content)
+                        // url: blog.url,
+                        url: blog.link || blog.url,
+                        // title: blog.title,
+                        title: blog.title || "Untitled Blog",
+                        description: extractTextContent(blog.content_html)
                       }}
                     />
                   );
