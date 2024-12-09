@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/gaganportfolio/static/css/main.8bbd8e43.css",
-    "main.js": "/gaganportfolio/static/js/main.c4ec66fc.js",
+    "main.css": "/gaganportfolio/static/css/main.eba2b612.css",
+    "main.js": "/gaganportfolio/static/js/main.d53fe8d0.js",
     "static/css/487.bb36206c.chunk.css": "/gaganportfolio/static/css/487.bb36206c.chunk.css",
-    "static/js/487.c0b7ad62.chunk.js": "/gaganportfolio/static/js/487.c0b7ad62.chunk.js",
+    "static/js/487.1bb42e96.chunk.js": "/gaganportfolio/static/js/487.1bb42e96.chunk.js",
     "static/media/ACL_Digital_Logo.png": "/gaganportfolio/static/media/ACL_Digital_Logo.3ad1c568f31689d87e75.png",
     "static/media/DevOps_Logos.png": "/gaganportfolio/static/media/DevOps_Logos.65294e0c686cf7f2fe14.png",
     "static/media/Montserrat-Regular.ttf": "/gaganportfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
@@ -20,13 +20,13 @@
     "static/media/nextuLogo.webp": "/gaganportfolio/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
     "index.html": "/gaganportfolio/index.html",
     "static/media/talksCardBack.svg": "/gaganportfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.8bbd8e43.css.map": "/gaganportfolio/static/css/main.8bbd8e43.css.map",
-    "main.c4ec66fc.js.map": "/gaganportfolio/static/js/main.c4ec66fc.js.map",
+    "main.eba2b612.css.map": "/gaganportfolio/static/css/main.eba2b612.css.map",
+    "main.d53fe8d0.js.map": "/gaganportfolio/static/js/main.d53fe8d0.js.map",
     "487.bb36206c.chunk.css.map": "/gaganportfolio/static/css/487.bb36206c.chunk.css.map",
-    "487.c0b7ad62.chunk.js.map": "/gaganportfolio/static/js/487.c0b7ad62.chunk.js.map"
+    "487.1bb42e96.chunk.js.map": "/gaganportfolio/static/js/487.1bb42e96.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bbd8e43.css",
-    "static/js/main.c4ec66fc.js"
+    "static/css/main.eba2b612.css",
+    "static/js/main.d53fe8d0.js"
   ]
 }
